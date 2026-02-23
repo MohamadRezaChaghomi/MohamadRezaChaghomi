@@ -1,67 +1,99 @@
-<!-- HEADER -->
+<!-- HERO SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=MohamadReza%20Chaghomi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=230&section=header&text=MohamadReza%20Chaghomi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h1 align="center">Frontend Architect & React Specialist</h1>
-
-<p align="center">
-  <a href="#english">🇺🇸 English</a> |
-  <a href="#persian">🇮🇷 فارسی</a>
-</p>
+<h1 align="center">Frontend Architect in Progress</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Frontend+Architectures;React+%7C+Next.js+%7C+TypeScript;Clean+Code+Advocate;Performance+Driven+Engineer"/>
+  Designing Scalable Systems • Engineering Clean Interfaces • Building for Global Products
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=7DF9FF&center=true&vCenter=true&width=750&lines=React+%7C+Next.js+%7C+TypeScript;Scalable+Frontend+Architectures;Performance+Driven+Engineering;Remote+Ready+Developer"/>
 </p>
 
 ---
 
-# 🇺🇸 English
+# 🧠 Professional Growth Roadmap
 
-## 🧠 About Me
+I am intentionally building myself toward becoming a **Frontend Architect for global-scale products**.
 
-I design and build **scalable, maintainable and performance-oriented frontend architectures**.
+### Phase 1 – Solid Foundations (Completed)
+- Advanced React patterns
+- Next.js App Router & SSR/ISR strategies
+- TypeScript deep understanding
+- Component reusability & modular structure
+- Git-based team workflows
 
-🎓 Computer Engineering Student – Qazvin International University (2023)  
-💼 Former Frontend Intern – Smart Land Company  
-⚛️ Specialized in React Ecosystem & Modern Frontend Patterns  
-🚀 Focused on architecture, performance optimization & clean code  
-🎨 Strong interest in UI/UX engineering and interaction design  
+### Phase 2 – Architecture & Scalability (Current Focus)
+- Feature-based architecture
+- Design System engineering
+- Frontend performance profiling
+- Scalable state management patterns
+- Clean Architecture applied to frontend
+
+### Phase 3 – System-Level Thinking (Next Target)
+- Micro-frontend architecture
+- Frontend observability
+- Large-scale project structuring
+- Technical leadership & documentation
+- Cross-team collaboration standards
 
 ---
 
-## 🏗 Architecture Mindset
+# 📦 Architecture Case Study  
+## Project: NoteApp (Secure Note Management System)
 
-- Component-Driven Development
-- Scalable Folder Structures
-- Feature-Based Architecture
-- Clean Code & SOLID Principles
-- Performance Optimization in Next.js
-- Type-Safe Applications using TypeScript
-- Reusable Design Systems
+### 🏗 Architectural Decisions
+
+**Stack:**
+Next.js + TypeScript + MongoDB
+
+**Why This Stack?**
+- SSR capability for scalability
+- Type safety for maintainability
+- Modular backend structure
+- Clear separation between UI, logic, and data layer
+
+### 🧩 Folder Strategy
+
+```
+src/
+ ├── features/
+ ├── shared/
+ ├── services/
+ ├── hooks/
+ ├── types/
+```
+
+✔ Feature-first organization  
+✔ Reusable shared components  
+✔ Isolated business logic  
+✔ Typed API layer  
+
+### ⚡ Performance Optimizations
+
+- Dynamic imports
+- Server-side rendering where needed
+- API abstraction layer
+- Optimized component rendering
+
+### 🎯 Result
+
+A maintainable, scalable structure ready to evolve into a larger SaaS-level application.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Core Technologies
 
-### Core
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,ts" />
-</p>
-
-### Frontend Ecosystem
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,html,css" />
-</p>
-
-### Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,figma,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind,sass,git,github,mongodb,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 Engineering Metrics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamadRezaChaghomi&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -70,56 +102,27 @@ I design and build **scalable, maintainable and performance-oriented frontend ar
 
 ---
 
-## 🌐 Connect
+# 🌍 Open to Remote Opportunities
 
-<p align="center">
-  <a href="mailto:mohamad.chaghomi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="https://github.com/MohamadRezaChaghomi"><img src="https://skillicons.dev/icons?i=github"/></a>
-  <a href="https://linkedin.com/in/mohamadreza-chaghomi"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-</p>
+I am actively preparing myself for **international remote frontend roles**.
 
----
+If you are:
+- Building a scalable SaaS product
+- Scaling a frontend team
+- Looking for a performance-focused React engineer
+- Hiring for a long-term remote position
 
-# 🇮🇷 Persian
+Let's connect.
 
-<a name="persian"></a>
-
-## 🧠 درباره من
-
-من روی طراحی و پیاده‌سازی **معماری‌های مقیاس‌پذیر، قابل نگهداری و بهینه برای فرانت‌اند** تمرکز دارم.
-
-🎓 دانشجوی مهندسی کامپیوتر – دانشگاه بین‌المللی قزوین (۱۴۰۲)  
-💼 کارآموز سابق فرانت‌اند – شرکت سرزمین هوشمند  
-⚛️ متخصص اکوسیستم React  
-🚀 علاقه‌مند به معماری نرم‌افزار و بهینه‌سازی عملکرد در Next.js  
-🎨 تمرکز ویژه روی مهندسی UI/UX و انیمیشن‌های وب  
-
----
-
-## 🏗 رویکرد معماری
-
-- توسعه مبتنی بر کامپوننت
-- ساختار پوشه‌بندی مقیاس‌پذیر
-- معماری مبتنی بر Feature
-- رعایت Clean Code و اصول SOLID
-- بهینه‌سازی Performance در Next.js
-- استفاده از TypeScript برای Type Safety
-- طراحی سیستم‌های Design System قابل استفاده مجدد
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://github.com/mohamadreza-chaghomi/mohamadreza-chaghomi/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+📫 **Email:** mohamad.chaghomi@gmail.com  
+🌐 **GitHub:** github.com/MohamadRezaChaghomi  
 
 ---
 
 <p align="center">
-  <b>Architecting Experiences. Not Just Interfaces.</b>
+  <b>Building Today for the Scale of Tomorrow.</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
 </p>
