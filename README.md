@@ -1,87 +1,156 @@
-<!-- HERO SECTION -->
+<!-- HERO ANIMATED CODER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=230&section=header&text=MohamadReza%20Chaghomi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=MohamadReza%20Chaghomi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h1 align="center">Frontend Architect in Progress</h1>
 
 <p align="center">
-  Designing Scalable Systems • Engineering Clean Interfaces • Building for Global Products
+  Engineering Scalable Interfaces for Global Products
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=7DF9FF&center=true&vCenter=true&width=750&lines=React+%7C+Next.js+%7C+TypeScript;Scalable+Frontend+Architectures;Performance+Driven+Engineering;Remote+Ready+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&width=800&lines=React+%7C+Next.js+%7C+TypeScript;Architecting+Scalable+Frontend+Systems;Performance+Driven+Engineering;Open+to+Remote+Opportunities"/>
 </p>
 
 ---
 
-# 🧠 Professional Growth Roadmap
+# 🔥 Personal Technical Manifesto
 
-I am intentionally building myself toward becoming a **Frontend Architect for global-scale products**.
+I believe frontend is not about components —  
+it is about **system design, scalability, and long-term maintainability**.
 
-### Phase 1 – Solid Foundations (Completed)
-- Advanced React patterns
-- Next.js App Router & SSR/ISR strategies
-- TypeScript deep understanding
-- Component reusability & modular structure
-- Git-based team workflows
+I build software that:
 
-### Phase 2 – Architecture & Scalability (Current Focus)
-- Feature-based architecture
-- Design System engineering
-- Frontend performance profiling
-- Scalable state management patterns
-- Clean Architecture applied to frontend
+- Scales without chaos  
+- Survives team growth  
+- Stays readable after 2 years  
+- Prioritizes performance  
+- Follows clean architectural boundaries  
 
-### Phase 3 – System-Level Thinking (Next Target)
-- Micro-frontend architecture
-- Frontend observability
-- Large-scale project structuring
-- Technical leadership & documentation
-- Cross-team collaboration standards
+I optimize for:
+- Clarity over cleverness  
+- Structure over speed  
+- System thinking over quick hacks  
+
+I am not just writing UI.  
+I am architecting experiences.
 
 ---
 
-# 📦 Architecture Case Study  
-## Project: NoteApp (Secure Note Management System)
+# 📘 Public Architecture Portfolio Structure
 
-### 🏗 Architectural Decisions
-
-**Stack:**
-Next.js + TypeScript + MongoDB
-
-**Why This Stack?**
-- SSR capability for scalability
-- Type safety for maintainability
-- Modular backend structure
-- Clear separation between UI, logic, and data layer
-
-### 🧩 Folder Strategy
+My public repositories follow a structured engineering pattern:
 
 ```
 src/
+ ├── app/
  ├── features/
  ├── shared/
  ├── services/
  ├── hooks/
  ├── types/
+ ├── utils/
 ```
 
-✔ Feature-first organization  
-✔ Reusable shared components  
-✔ Isolated business logic  
-✔ Typed API layer  
+Each serious project includes:
 
-### ⚡ Performance Optimizations
+- Architecture explanation in README
+- Stack justification
+- Performance decisions
+- Folder strategy documentation
+- Future scalability considerations
 
-- Dynamic imports
-- Server-side rendering where needed
-- API abstraction layer
-- Optimized component rendering
+Goal:
+To treat every public repository as a production-ready foundation.
 
-### 🎯 Result
+---
 
-A maintainable, scalable structure ready to evolve into a larger SaaS-level application.
+# 🎯 12 Month Architect Growth Plan
+
+### Q1 – Deep Mastery
+- Advanced TypeScript patterns
+- React rendering internals
+- Performance profiling tools
+- Design system engineering
+
+### Q2 – Scalable Systems
+- Feature-based architecture
+- State management at scale
+- Authentication architecture
+- API abstraction layers
+
+### Q3 – Advanced Architecture
+- Micro-frontend exploration
+- Monorepo strategy
+- CI/CD pipelines
+- Testing strategy (unit + integration)
+
+### Q4 – Leadership & Global Readiness
+- Technical writing weekly
+- Open-source contribution
+- Architecture documentation practice
+- System design mock interviews
+
+Target Outcome:
+Remote-ready Frontend Architect mindset.
+
+---
+
+# 📦 Architecture Case Approach
+
+When building projects, I define:
+
+1. Problem Scope
+2. Scalability Forecast
+3. State Strategy
+4. Folder Strategy
+5. Performance Plan
+6. Long-Term Maintainability
+
+Every project is treated like a SaaS foundation.
+
+---
+
+# 💼 Resume Snapshot (Remote EU/US Ready)
+
+**Role Focus:**  
+Frontend Engineer → Frontend Architect Track  
+
+**Core Stack:**  
+React, Next.js, TypeScript  
+
+**Strengths:**  
+- Scalable architecture design  
+- Clean code & maintainability  
+- Performance optimization  
+- UI engineering precision  
+- Team workflow familiarity  
+
+**Work Model:**  
+Remote • Async communication • Documentation-first mindset  
+
+---
+
+# 🌍 GitHub Profile Optimization Strategy
+
+This profile is structured to:
+
+- Showcase architectural thinking
+- Demonstrate consistent activity
+- Highlight system-level decisions
+- Maintain technical clarity
+- Appeal to global recruiters
+
+Pinned repositories will represent:
+- One scalable SaaS-style app
+- One architecture-focused project
+- One UI engineering showcase
+- One performance-optimized build
 
 ---
 
@@ -102,27 +171,26 @@ A maintainable, scalable structure ready to evolve into a larger SaaS-level appl
 
 ---
 
-# 🌍 Open to Remote Opportunities
+# 🏆 Open to International Remote Roles
 
-I am actively preparing myself for **international remote frontend roles**.
+If you are building a scalable product  
+and need a frontend engineer with architectural ambition:
 
-If you are:
-- Building a scalable SaaS product
-- Scaling a frontend team
-- Looking for a performance-focused React engineer
-- Hiring for a long-term remote position
+📫 mohamad.chaghomi@gmail.com  
+🌍 github.com/MohamadRezaChaghomi  
 
-Let's connect.
-
-📫 **Email:** mohamad.chaghomi@gmail.com  
-🌐 **GitHub:** github.com/MohamadRezaChaghomi  
+Let’s build systems that scale globally.
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
+</p>
 
 <p align="center">
   <b>Building Today for the Scale of Tomorrow.</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
