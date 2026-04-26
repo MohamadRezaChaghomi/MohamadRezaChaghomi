@@ -214,13 +214,7 @@ Let’s build systems that scale globally — frontend, backend, real-time, offl
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
-</p>
 
-<p align="center">
-  <b>Building Today for the Scale of Tomorrow.</b>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
