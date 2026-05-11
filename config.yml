@@ -1,0 +1,116 @@
+# Galaxy Profile README Configuration
+# Copy this file to config.yml and customize it to make it your own!
+#
+# Usage:
+#   cp config.example.yml config.yml
+#   # Edit config.yml with your details
+#   python -m generator.main
+#
+# Demo mode (no API calls, uses this file directly):
+#   python -m generator.main --demo
+
+# Your GitHub username (required)
+username: MohamadRezaChaghomi
+
+# Profile information displayed in the galaxy header
+profile:
+  name: "MohamadReza Chaghomi"
+  tagline: "Full‑Stack Engineer with Architect Mindset — Building systems that scale across galaxies"
+  company: "Freelance / Open Source"
+  location: "Iran (Remote — Available Worldwide)"
+  bio: |
+    Full‑Stack Engineer and Architect in Progress. Frontend is system design, not just UI. 
+    Backend is data flow, not just endpoints. I craft scalable, real‑time, offline‑ready platforms 
+    with clean architecture, performance, and long‑term maintainability in mind.
+  philosophy: '"The best code scales without chaos — it survives team growth and stays readable after 2 years."'
+
+# Social links displayed at the bottom of the profile
+social:
+  email: "mohamad.chaghom@gmail.com"
+  linkedin: "mohamadreza-chaghomi"
+  website: "https://github.com/MohamadRezaChaghomi"
+
+# Galaxy arms represent your core focus areas
+# Each arm spirals out from the center with its own color and tech items
+# Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
+galaxy_arms:
+  - name: "Frontend Architecture"
+    color: "dendrite_violet"
+    items:
+      - "React"
+      - "Next.js"
+      - "TypeScript"
+      - "Tailwind"
+      - "SCSS"
+  - name: "Backend Engineering"
+    color: "synapse_cyan"
+    items:
+      - "Node.js"
+      - "Express"
+      - "MongoDB"
+      - "MySQL"
+      - "WebSocket"
+  - name: "DevOps & Tooling"
+    color: "axon_amber"
+    items:
+      - "Git"
+      - "GitHub Actions"
+      - "PWA"
+      - "JWT"
+      - "Docker"
+
+# Featured projects shown as constellation stars
+# Each project needs:
+#   repo: "owner/repo-name"   — GitHub repository path
+#   arm: 0-2                  — Which galaxy arm to associate with (index)
+#   description: "..."        — Short description shown on the card
+projects:
+  - repo: "MohamadRezaChaghomi/EduNest"
+    arm: 1
+    description: "Full‑stack LMS with payment integration, role management, and real‑time progress tracking — built with Next.js 14, Node.js, Express, MongoDB, Stripe, and Cloudinary."
+  - repo: "MohamadRezaChaghomi/note-app"
+    arm: 1
+    description: "Professional note‑taking app with multi‑layer auth (JWT, XSS, CSRF), WYSIWYG editor, and analytics dashboard — top university project scoring 20/20 + extra points."
+  - repo: "mahdiamiri1208/shop-online"
+    arm: 0
+    description: "Auto parts e‑commerce frontend with 4‑level category tree, mobile OTP login, and Zustand cart management — built with Next.js 15, React 19, and Tailwind CSS."
+  - repo: "MohamadRezaChaghomi/real-estate"
+    arm: 0
+    description: "Property management platform with map visualization (Leaflet), Excel export, interactive calendar, and audit log — complete with dark/light theme."
+  - repo: "MohamadRezaChaghomi/PastrySupplies"
+    arm: 0
+    description: "Admin panel for pastry supply management — lead frontend developer role in a team project using React with Laravel backend."
+  - repo: "MohamadRezaChaghomi/mohamadreza-portfolio"
+    arm: 0
+    description: "Personal portfolio website with Three.js 3D background, bilingual support (fa/en), and PWA‑ready contact form."
+
+# Theme color overrides (optional — defaults to deep space palette)
+# All values must be valid hex color codes (#RRGGBB)
+theme:
+  void: "#080c14"              # Darkest background
+  nebula: "#0f1623"            # Card backgrounds
+  star_dust: "#1a2332"         # Borders, dividers
+  synapse_cyan: "#00d4ff"      # Primary accent (arm color 1) — Backend arm
+  dendrite_violet: "#a78bfa"   # Secondary accent (arm color 2) — Frontend arm
+  axon_amber: "#ffb020"        # Tertiary accent (arm color 3) — DevOps arm
+  text_bright: "#f1f5f9"       # Primary text
+  text_dim: "#94a3b8"          # Secondary text
+  text_faint: "#64748b"        # Muted text, labels
+
+# Stats configuration — which metrics to show on the telemetry card
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# Language display settings
+languages:
+  exclude:                     # Languages to hide from the telemetry chart
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8               # Maximum number of languages to show
